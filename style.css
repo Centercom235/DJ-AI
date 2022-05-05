@@ -18,6 +18,7 @@ canvas{
     border: 5px solid black;
     border-radius: 25px;
     margin-top: 20px;
+    box-shadow: 5px 5px 5px gray;
 } 
 
 #song{

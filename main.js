@@ -5,7 +5,7 @@ rightwristX=0;
 rightwristY=0;
 
 function preload(){
-song=loadSound("music.mp3");
+song=loadSound("poetry One.mp3");
 }
 
 function setup(){

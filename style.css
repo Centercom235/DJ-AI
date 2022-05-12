@@ -6,7 +6,7 @@
 
 .note{
     font-size: 15px;
-    color: red;
+    color: black;
 }
 
 body{
@@ -17,7 +17,7 @@ body{
 canvas{
     border: 5px solid black;
     border-radius: 25px;
-    margin-top: 20px;
+    margin-top: 80px;
     box-shadow: 5px 5px 5px gray;
 } 
 
